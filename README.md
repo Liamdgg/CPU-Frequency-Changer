@@ -8,3 +8,4 @@ This app was made to limit the maximum frequency of your cpu using powershell co
 Type in the box as the MHz you want to limit, e.g. 3500 MHz = 3.5Ghz and press the button, remember to run the application as administrator.
 
 Made by Liamdgg (Dang Thanh Lam)
+.
